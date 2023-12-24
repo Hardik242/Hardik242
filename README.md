@@ -15,7 +15,7 @@ I am Hardik Goel, a 2nd year BTech CSE student from MIET College Meerut. I have 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=hardik242&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik242&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hardik242&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hardik242&theme=dark&hide_border=false)<br/>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik242&layout=compact&theme=radical" alt=hardik242 /><br/>
 
 <div align="left">
