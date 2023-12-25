@@ -2,6 +2,28 @@
 
 I am Hardik Goel, a 2nd year BTech CSE student from MIET College Meerut. I have always been fascinated by web development and how it can transform the way we interact with the world. I am proficient in C++ and have been acquiring knowledge in data structures and algorithms, which are essential for solving complex problems. I am passionate about creating web applications that are both functional and visually appealing, using the latest technologies and frameworks. I am a quick learner and enjoy taking on new challenges, as they help me grow as a developer and a person. I am eager to apply my skills and knowledge in real-world projects and collaborate with other developers. I believe that web development is not only a skill, but also an art, and I strive to create web applications that are elegant, efficient, and user-friendly.<br>
 
+### <div align="center">I'm Hardik Goel, a passionate Frontend Developer 👨‍💻 brushing up my skillsets regularly🚀</div>  
+  
+
+- 🔭 I’m currently pursuing BTech CSE from MIET college  
+  
+
+- 🌱 I’m currently learning Reactjs, Tailwind CSS and React Ecosystem  
+  
+
+- ❓ Ask me about anything related to ReactJs, Javascript and related technologies  
+  
+
+- ⚡ Fun fact: I am familiar with coding since my class 10th also I love to explore new technologies and read about new technologies updates  
+  
+
+- &#x1F49A; I am eager to apply my skills and knowledge in real-world projects and collaborate with other developers  
+  
+
+<br/>  
+
+
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goel_hardik242) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-goel-582053250)
