@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### <div align="center">I'm Hardik Goel, a passionate Frontend Developer 👨‍💻 brushing up my skillsets regularly🚀</div>  
+### <h1 align="center">I'm Hardik Goel, a passionate Frontend Developer 👨‍💻 brushing up my skillsets regularly🚀</h1>  
   
 
 - 🔭 I’m currently pursuing BTech CSE from MIET college  
