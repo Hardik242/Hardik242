@@ -24,7 +24,13 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goel_hardik242) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-goel-582053250)
+<a href="https://linkedin.com/in/hardik-goel-582053250" target="_blank"
+    >[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-goel-582053250)</a
+>
+<a href="https://instagram.com/goel_hardik242" target="_blank"
+    >[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goel_hardik242)
+</a>
+
 
 # 💻 Tech Stack:
 
