@@ -28,8 +28,8 @@ I am Hardik Goel, a 2nd year BTech CSE student from MIET College Meerut. I have 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 📊 GitHub Stats:
-![hardik242's Stats](https://github-readme-stats.vercel.app/api?username=hardik242&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
-![hardik242's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik242&theme=cobalt&hide_border=true)
+![hardik242's Stats](https://github-readme-stats.vercel.app/api?username=hardik242&theme=cobalt&show_icons=true&hide_border=true&count_private=true)<br/>
+![hardik242's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik242&theme=cobalt&hide_border=true)<br/>
 ![hardik242's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik242&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
