@@ -1,4 +1,4 @@
-# 💫 About Me: <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=500&size=36&duration=1000&pause=1000&color=26F733&vCenter=true&random=false&lines=Front+End+Developer;Back+End+Developer;Full+Stack+MERN+Developer" alt="Typing SVG"/></a></p>
+# 💫 About Me: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=500&size=36&duration=1000&pause=1000&color=26F733&vCenter=true&random=false&width=650&lines=Hardik+Goel;A+Front+End+Developer;ReactJs+%7C%7C+Tailwind+%7C%7C+JavaScript)](https://git.io/typing-svg)
 
 
 ## <h1 align="center">I'm Hardik Goel, a passionate Frontend Developer 👨‍💻 brushing up my skillsets regularly🚀</h1>  
