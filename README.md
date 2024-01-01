@@ -1,6 +1,5 @@
 # 💫 About Me: 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=700&size=36&duration=1000&pause=1000&color=269A21&center=true&vCenter=true&random=false&width=820&height=40&lines=I'm+Hardik+Goel;A+Front+End+Developer;Currently+learning+ReactJs;Next+goal+is+to+made+30%2B+quality+projects)](https://git.io/typing-svg)
-
 # <h1 align="center">I'm Hardik Goel, a passionate Frontend Developer 👨‍💻 brushing up my skillsets regularly🚀</h1>  
   
 
