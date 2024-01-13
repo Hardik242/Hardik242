@@ -55,15 +55,3 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=hardik242&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=hardik242&icon=0&color=0)](https://visitcount.itsvg.in)
